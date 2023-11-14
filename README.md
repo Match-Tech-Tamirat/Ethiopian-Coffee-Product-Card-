@@ -26,3 +26,24 @@ The goal of this project is to create an engaging UI design for presenting infor
 
    ```bash
    git clone https://github.com/your-username/EthiopianCoffeeGuide.git
+
+# Ethiopian Coffee UI
+
+## 🌍 Explore the rich world of Ethiopian coffee with our interactive sliding product card UI design.
+
+## 🎨 Features:
+
+Seamless sliding effect for an engaging user experience.
+Inspired by the vibrant culture and flavors of Ethiopian coffee.
+Responsive design for a consistent layout across devices.
+## 🚀 Usage:
+
+- Clone the repository.
+- Open `index.html`index.html` in your browser.
+- Discover the elegance of Ethiopian coffee.
+
+## 👥 Contribute:
+Open issues or pull requests for improvements.
+
+## 📄 License:
+This project is under the MIT License.
