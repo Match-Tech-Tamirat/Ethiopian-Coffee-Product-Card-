@@ -25,9 +25,9 @@ The goal of this project is to create an engaging UI design for presenting infor
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/EthiopianCoffeeGuide.git
+   git clone https://github.com/Match-Tech-Tamirat/Ethiopian-Coffee-Product-Card-.git
 
-# Ethiopian Coffee UI
+# Ethiopian Coffee UI: 
 
 ## 🌍 Explore the rich world of Ethiopian coffee with our interactive sliding product card UI design.
 
